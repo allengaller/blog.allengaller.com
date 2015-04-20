@@ -1,2 +1,1 @@
-# blog.allengaller.com
-My Hexo Blog
+# allengaller.github.io
