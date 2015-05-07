@@ -8,4 +8,5 @@ categories:
 
 ---
 
-res
+Doc:
+http://mirrors.segmentfault.com/swiftguide/index.html

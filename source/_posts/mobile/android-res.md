@@ -7,5 +7,5 @@ categories:
 - android
 
 ---
-
-res
+Doc:
+http://mirrors.segmentfault.com/adchs/index.html
