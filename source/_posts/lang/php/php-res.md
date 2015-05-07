@@ -20,7 +20,29 @@ categories:
 - 201401: Graph
 - 201402: Error
 - 201403: Yii　
+PHP:
+_提高PHP编程能力
+1. PHP基础语法
+2. PHP常用函数
+3. SPL
+4. MVC Framework
 
+    1. 基础
+        PHP 官方文档
+        即用即查 PHP 函数参考手册
+        细说 PHP
+
+    2. 进阶
+        深入PHP面向对象、模式与实践
+        PHP Cookbook 经典实例
+        PHP 核心技术与最佳实践
+        TIPI 深入理解 PHP 内核
+        PHP 精粹
+
+    3. 框架
+        大道PHP.LAMP.Zend开源框架整合开发与实践
+
+        
 # Link:
 
 - [phptoday](https://www.phptoday.org/)
@@ -40,27 +62,6 @@ categories:
 - O'Reilly PHP设计模式 上半年必修
 - PHP核心技术与最佳实践 上半年必修
 - [TIPI](http://www.php-internals.com)
-
-# Yii
-
-- [krajee](http://demos.krajee.com/#)
-- [Yii 2.0 中文权威指南](http://www.yiifans.com/yii2/guide/)
-- [视频](http://www.yiifans.com/forum.php?mod=viewthread&tid=11498)
-- [深入理解Yii2.0](http://www.digpage.com/)
-
-# CakePHP
-
-# Zend
-
-# Lavarel
-
-- [Homepage](http://laravel.com)
-- [Lavarel China](http://www.golaravel.com/)
-- [5.0 Doc](http://www.golaravel.com/laravel/docs/5.0)
-- [5.0 API](http://laravel.com/api/5.0/index.html)
-
-# Read:
-
 - [PHP扩展开发及内核应用](https://github.com/walu/phpbook) | [Read](http://www.walu.cc/phpbook/)
 - [php-the-right-way](http://laravel-china.github.io/php-the-right-way/)
 - [PHP Cookbook](http://book.douban.com/subject/1865376/)
@@ -73,6 +74,7 @@ categories:
 - [Composer](http://www.phpcomposer.com/)
 - [中国镜像](http://pkg.phpcomposer.com/)
 - http://www.ipip.net/download.html
+- [Packagist中国镜像站](http://packagist.cn/)
 
 # Project
 
@@ -85,6 +87,26 @@ categories:
 # Mindmap
 
 ![20150414](http://ag-qiniu.u.qiniudn.com/mm_php.png)
+
+# MVC Framework
+
+__Yii__
+
+- [krajee](http://demos.krajee.com/#)
+- [Yii 2.0 中文权威指南](http://www.yiifans.com/yii2/guide/)
+- [视频](http://www.yiifans.com/forum.php?mod=viewthread&tid=11498)
+- [深入理解Yii2.0](http://www.digpage.com/)
+
+__CakePHP__
+
+__Zend__
+
+__Lavarel__
+
+- [Homepage](http://laravel.com)
+- [Lavarel China](http://www.golaravel.com/)
+- [5.0 Doc](http://www.golaravel.com/laravel/docs/5.0)
+- [5.0 API](http://laravel.com/api/5.0/index.html)
 
 ---
 

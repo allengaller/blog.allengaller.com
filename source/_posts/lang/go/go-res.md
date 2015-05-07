@@ -9,3 +9,8 @@ categories:
 ---
 ## Blog
 http://tonybai.com/
+## Go
+- [play](http://play.golang.org/)
+- http://golanghome.com
+
+https://github.com/golang-samples

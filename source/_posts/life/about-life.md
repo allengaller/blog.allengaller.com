@@ -1,4 +1,4 @@
-# Habbit
+# Life
 
 ## Run
 - [虎扑跑步](http://run.hupu.com/)
@@ -26,5 +26,41 @@ http://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B
 ### CS
 
 
+Wishlist
+__Life:__
 
+- Peace
+- Health
 
+__Work:__
+
+- NEXT Project
+
+__Publish__:
+
+- Docker in Action
+
+__Gear:__
+
+- Xiaomi TV
+- Xiaomi Note +
+- Xiaomi Box 2+
+
+- XBox
+- Macbook Air
+
+- iPhone 4s
+- iPad
+- iPod Classic
+- iPod Nano
+- Kindle 3
+
+- Palm Treo
+- HTC Touch HD 2
+- Sony Ericsson 300C
+
+__Kits:__
+
+- Herman Miller Embody
+- HHKB Pro 2
+- Beats Pill 2

@@ -8,17 +8,17 @@ categories:
 
 ---
 
-### MySQL
-
-__Link__:
-
-__Plan__:
+# Plan
 
 1. SQL基础
 2. MySQL基础话题
 3. MySQL高级话题
 
-__Read__:
+# Link
+
+# Doc
+
+# Read
 
 - [高性能MySQL](http://book.douban.com/subject/4241826/)
 - [高可用MySQL](http://book.douban.com/subject/6847455/)
