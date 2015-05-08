@@ -14,3 +14,5 @@ http://tonybai.com/
 - http://golanghome.com
 
 https://github.com/golang-samples
+包管理：
+http://gopm.io/

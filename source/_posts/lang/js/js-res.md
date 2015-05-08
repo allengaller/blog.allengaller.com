@@ -10,7 +10,23 @@ categories:
 
 __Link__:
 
+## 知识点
+- https://platform.html5.org/
 
+## 加速
+- http://www.bootcdn.cn/
+- [淘宝NPM](http://npm.taobao.org/)
+http://diveintohtml5.info/
+
+http://foundation.zurb.com/apps/
+
+http://www.appgyver.com/
+
+http://ionicframework.com/
+
+http://gulpjs.com/
+
+https://angularjs.org/
 __Read__:
 [Javascript权威指南][js-guide] | [笔记][js-guide-notes]
 [JavaScript征途]
@@ -32,4 +48,4 @@ Javascript编程能力
 0910 RequireJS
 
 5. 常用框架
-6. 
+6.

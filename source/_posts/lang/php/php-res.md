@@ -10,39 +10,30 @@ categories:
 
 # Plan:  
 
-- 201406: PHP OO Review
-- 201407: TIPI
-- 201408: SPL
-- 201409: Design Pattern
-- 201410: DB
-- 201411: HTTP
-- 201412: File
-- 201401: Graph
-- 201402: Error
-- 201403: Yii　
-PHP:
-_提高PHP编程能力
-1. PHP基础语法
+1. PHP基础语法 PHP OO Review
 2. PHP常用函数
-3. SPL
+3. TIPI SPL DB HTTP File Graph Error
 4. MVC Framework
+5. Design Pattern
+## 基本功
+- PHP 配置项, 常量
+- 正则表达式： 转义， 反义， 分组。 贪婪/懒惰匹配
+- 面向对象：继承, (priavte + public + protected), $this
+- 常用类库：curl, gd2,
+- 消息队列：
+- 异步处理：
+- 服务器钩子： fastcgi, php-cgi
+- 缓存:
+    - 客户端缓存: Expires, CacheControl, ETag
+    - 文件缓存: secache,
+    - opcode缓存: eAccelerator, apc
+    - key-value：redis, APC, Memcached
+    - NoSQL：
+- 浏览器: Session, Cookie
+- Web Service:
+- 多线程: [pthreads](https://github.com/krakjoe/pthreads), [pthreads文档](http://php.net/manual/zh/book.pthreads.php)
+- 多语言通信: [thrift](http://thrift.apache.org/)
 
-    1. 基础
-        PHP 官方文档
-        即用即查 PHP 函数参考手册
-        细说 PHP
-
-    2. 进阶
-        深入PHP面向对象、模式与实践
-        PHP Cookbook 经典实例
-        PHP 核心技术与最佳实践
-        TIPI 深入理解 PHP 内核
-        PHP 精粹
-
-    3. 框架
-        大道PHP.LAMP.Zend开源框架整合开发与实践
-
-        
 # Link:
 
 - [phptoday](https://www.phptoday.org/)
@@ -68,7 +59,17 @@ _提高PHP编程能力
 - [PHP语言精粹](http://book.douban.com/subject/1865376/)
 - [core-php](http://book.douban.com/subject/10517225/)
 - [PHP SPL](http://www.ruanyifeng.com/blog/2008/07/php_spl_notes.html)
+- PHP 官方文档
+- 即用即查 PHP 函数参考手册
+- 细说 PHP
+- 深入PHP面向对象、模式与实践
+- PHP Cookbook 经典实例
+- PHP 核心技术与最佳实践
+- TIPI 深入理解 PHP 内核
+- PHP 精粹
 
+3. 框架
+    大道PHP.LAMP.Zend开源框架整合开发与实践
 # Tool
 
 - [Composer](http://www.phpcomposer.com/)
@@ -90,12 +91,15 @@ _提高PHP编程能力
 
 # MVC Framework
 
+- http://framework.joomla.org/
+- http://windwalker.io/
 __Yii__
 
 - [krajee](http://demos.krajee.com/#)
 - [Yii 2.0 中文权威指南](http://www.yiifans.com/yii2/guide/)
 - [视频](http://www.yiifans.com/forum.php?mod=viewthread&tid=11498)
 - [深入理解Yii2.0](http://www.digpage.com/)
+- [Yincart](http://www.yincart.com/)
 
 __CakePHP__
 
@@ -107,6 +111,57 @@ __Lavarel__
 - [Lavarel China](http://www.golaravel.com/)
 - [5.0 Doc](http://www.golaravel.com/laravel/docs/5.0)
 - [5.0 API](http://laravel.com/api/5.0/index.html)
+
+## Restful API
+- 设计原则: 一个主体一个类, 一个动作一个函数.
+
+## Tool
+http://www.ipip.net/download.html
+
+## Project
+
+### Open Source
+
+- [opensns](http://www.opensns.cn/)
+
+## Blog
+
+- http://lamp.baidu.com/
+- Baidu Lamp: [http://lamp.baidu.com/](http://lamp.baidu.com/)
+- http://huoding.com/
+
+## 数据库
+
+- MySQL基础+调优
+- MongoDB基础+调优
+- ORM：[Medoo](http://medoo.in/)
+- PDO
+
+## 依赖管理
+- composer: [https://getcomposer.org/](https://getcomposer.org/)
+安装前需要apt-get install php5-cli curl
+
+## 开源项目:
+- WeCenter
+- StartBBS: [http://www.startbbs.com/](http://www.startbbs.com/)
+
+# PHP 阅读清单
+
+## 1. 基础类
+- PHP 官方文档
+- 即用即查 PHP 函数参考手册
+ - 细说 PHP
+
+## 2. 进阶类
+- 深入PHP面向对象、模式与实践
+- PHP Cookbook 经典实例
+- PHP 核心技术与最佳实践
+- TIPI 深入理解 PHP 内核
+- PHP 精粹
+
+## 3. 框架类
+- 大道PHP.LAMP.Zend开源框架整合开发与实践
+
 
 ---
 

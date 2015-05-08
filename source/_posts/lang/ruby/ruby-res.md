@@ -19,4 +19,26 @@ octopress( Github Pages ): http://octopress.org/
 middleman( Ruby Gem, Static ): https://github.com/middleman/middleman
 robbin_site( Padrino ): https://github.com/robbin/robbin_site
 
+
+## Wiki
+- https://ruby-china.org/wiki
+
+## Book
+https://www.gotealeaf.com/books/ruby
+https://ihower.tw/rails4/index.html
+http://objectsonrails.com/
+http://railstutorial-china.org/
+https://www.railstutorial.org/
+https://www.gotealeaf.com/books/ruby
+
+
+## 文章：
+http://www.yangzhiping.com/tech/Learn-to-Program.html
+http://www.yangzhiping.com/tech/7days-learn-rails3.html
+http://www.yangzhiping.com/tech/rails-start.html
+http://www.yangzhiping.com/tech/git.html
+http://ihower.tw/blog/books
+http://blog.xdite.net/?p=2301
+http://www.yangzhiping.com/tech/beijing-ruby-learn.html
+https://ihower.tw/blog/
 ---

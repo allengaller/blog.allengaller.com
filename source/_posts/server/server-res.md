@@ -46,3 +46,8 @@ __Virtualization__:
 
 __Security__:
 https://www.funnysafe.com/
+
+## Tool
+
+- [Meld](http://meldmerge.org/) Differ
+- [Terminator]() Console

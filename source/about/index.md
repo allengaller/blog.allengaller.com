@@ -76,6 +76,57 @@ and creating a peaceful experience while using/wearing this works.
 
 一个关于时间管理和人生实践的真人秀
 
+## Schedule
+### Daily
+__每日编码读码1H+
+20140707 0708
+
+__每日深入学习LAMP/并发系统:
+20140617 Cookbook-Array Done 1h
+20140617 Cookbook-OO    Done 1.5h
+
+__每日研发资料整理
+20140615-19 Done
+
+__Dooland杂志99本阅读
+
+__每周Auible听书
+20140617-19 TR DONE
+
+### Weekly
+__每周回顾
+20140707 1H
+
+__每周每周更新简历SNS博客公众
+
+__每周禅修
+20140615 一次
+20140616 两次
+20140617 1
+
+__每周泛读
+20140707 大鹏:难搞的日子笑出来 2H
+
+__每周健身4次:
+20140615 5T.
+
+__每周钢琴口琴吉他练习
+
+__每周清理硬盘/在线资源/书房/音乐电影资源
+在线资源包括: POCKET Evernote Bookmark WeiboFav  
+20140616 Pocket
+20140615 书房清理
+20140709 WEIBO
+
+## Later
+Apps开发准备
+
+## MISC
+确认兴业积分并准备港币消费
+TaskCity接单
+
+
+
 # Publish
 
 __写作与阅读，是实践内观的最佳入口。__
