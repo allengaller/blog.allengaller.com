@@ -279,14 +279,27 @@ http://bosonnlp.com/
 
 
 # Tool
+__mindmap
+
+[xmind](http://xmind.net)
+http://naotu.baidu.com/
+https://www.processon.com/
 
 
+__markdown
 
+[markdownpad2]
+[mdeditor](https://www.zybuluo.com/mdeditor)
+https://pandao.github.io/editor.md/
 
-ssh: http://www.bitvise.com/ssh-client-download
+__ssh
+Windows:
+[tunnlier](http://www.bitvise.com/ssh-client-download)
+[babun](http://babun.github.io)
+Linux:
+[terminator]()
 
-
-### Git
+__git
 
 - [backlogtool](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)
 - [Git](http://git-scm.com/book/en/v2)
@@ -298,38 +311,32 @@ ssh: http://www.bitvise.com/ssh-client-download
 - http://chrome-extension-downloader.com/
 - http://mymorningroutine.com/
 
-__Markdown__:
-- https://pandao.github.io/editor.md/
--
-__Windows Environment__:
-- http://babun.github.io/
-- http://ditto-cp.sourceforge.net/
-- Clover http://cn.ejie.me/
+
+__windows environment
+
+http://ditto-cp.sourceforge.net/
+Clover http://cn.ejie.me/
 
 __HyperApp__:
 - http://www.oschina.net/p/crossapp
 
-### Mindmap
-http://naotu.baidu.com/
-https://www.processon.com/
-
-## VPS
+__VPS
 - linode
 - aliyun
 - qcloud
 - [digitalocean](https://www.digitalocean.com)
 
-## Build
+__Build
 - Docker
 - https://www.chef.io
 
-## APM
+__APM
 - top
 - zabbix: [http://www.zabbix.com/](http://www.zabbix.com/)
 - https://www.skylight.io
 - NewRelec
 
-## 数据实时分析
+__数据实时分析
 - http://storm.apache.org/
 
 ## 面板
