@@ -54,14 +54,39 @@ __L3
 
 # Tool
 
-- [Composer](http://www.phpcomposer.com/)
+__Package__
+
+- [Composer](http://www.phpcomposer.com/) | [Doc](http://docs.phpcomposer.com/)
 - [中国镜像](http://pkg.phpcomposer.com/)
+
 - [ipip](http://www.ipip.net/download.html)
 - [Packagist中国镜像站](http://packagist.cn/)
 
-# Project
+- Pecl
 
-- [opensns](http://www.opensns.cn/)
+__Image__
+
+- GD
+- magic
+
+__Encryt__
+
+- mcrypt
+
+__Data__
+
+- json
+- pdo
+- pdo-mysql
+- memcached
+
+__Web__
+
+- curl
+- intl
+
+__Log__
+
 
 # Blog
 
@@ -103,19 +128,23 @@ __Other
 
 # Project
 
-__Open Source
 
+__Open Source__
+
+- PHP-Nuts
+
+- https://www.humhub.org
 - [opensns](http://www.opensns.cn/)
 - WeCenter
 - StartBBS: [http://www.startbbs.com/](http://www.startbbs.com/)
 
-__Blog
+__Blog__
 
 - http://lamp.baidu.com/
 - Baidu Lamp: [http://lamp.baidu.com/](http://lamp.baidu.com/)
 - http://huoding.com/
 
-__依赖管理
+__依赖管理__
 - composer: [https://getcomposer.org/](https://getcomposer.org/)
 安装前需要apt-get install php5-cli curl
 
