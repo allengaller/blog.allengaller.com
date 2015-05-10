@@ -17,6 +17,12 @@ categories:
 # Link
 
 # Doc
+## 数据库
+
+- MySQL基础+调优
+- MongoDB基础+调优
+- ORM：[Medoo](http://medoo.in/)
+- PDO
 
 # Read
 
