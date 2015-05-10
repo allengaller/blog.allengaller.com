@@ -1,3 +1,13 @@
+title: "Docker Resources"
+date: 2015-03-01 16:46:12
+tags:
+- resource
+categories:
+- cloud
+- docker
+
+---
+
 # 基本教义
 
 四圣谛 八正道 十二因缘 五蕴 涅槃 缘起 三学 波罗密 三法印 空性 真如

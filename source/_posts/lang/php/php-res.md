@@ -21,7 +21,6 @@ categories:
 - 大话PHP设计模式
 - 站在巨人的肩膀上写代码—SPL
 
-# Read
 # Reading list
 
 __L1
