@@ -23,13 +23,10 @@ categories:
 
 # Reading list
 
-__L1
+__L1__
 - PHP 官方文档
 - 即用即查 PHP 函数参考手册
 - 细说 PHP
-
-__L2
-
 - 深入理解PHP: 高级技巧，面向对象与核心技术
 - 深入PHP面向对象、模式与实践
 - PHP Cookbook 经典实例
@@ -37,7 +34,7 @@ __L2
 - TIPI 深入理解 PHP 内核
 - PHP 精粹
 
-__L3
+__L3__
 
 - 大道PHP.LAMP.Zend开源框架整合开发与实践
 - O'Reilly PHP经典实例 上半年必修

@@ -26,7 +26,7 @@ updated at 20150507
 - [码农必读非技术书列表](https://github.com/justjavac/free-programming-books-zh_CN/blob/master/what-non-programming-books-should-programmers-read.md)
 
 ## Information Source
-__level1
+__level1__
   - [quora](https://www.quora.com/)
   - [Product Hunt](http://www.producthunt.com)
   - [Hacker News](https://news.ycombinator.com)
@@ -38,14 +38,14 @@ __level1
   - [Get](http://get.jobdeer.com/)
   - [sitepoint](http://www.sitepoint.com/)
 
-__level2
+__level2__
   - [Startup News](news.dbanotes.net) + [Mod](http://www.hackernews.im/startupnews)
   - [36Kr](http://www.36kr.com/) + [36Kr Next](http://next.36kr.com/)
   - [OSChina](http://www.oschina.net)
   - [湾区日报](http://wanqu.co)
   - [reddit](http://www.reddit.com/)
 
-__Level3
+__Level3__
   - [techcrunch](http://techcrunch.com/)
   - [arstechnica](http://arstechnica.com/)
   - [thenextweb](http://thenextweb.com/)
@@ -53,7 +53,7 @@ __Level3
   - http://githuber.info/index
   -[CVBOX](http://cvbox.sinaapp.com/)
 
-__Career
+__Career__
   - [OverAPI](http://overapi.com/php/)
   - [Learn X in Y Minutes](http://learnxinyminutes.com)
   - [leetcode](http://leetcode.com)
@@ -123,19 +123,20 @@ __Career
 ## FrontEnd
     - [HTML 5与CSS 3权威指南]  
     - [HTTP权威指南](http://book.douban.com/subject/10746113)
+
 __Read__:
 
-[计算机网络:自顶向下方法(原书第4版)]  
+- [计算机网络:自顶向下方法(原书第4版)]  
 - [正则指引](http://book.douban.com/subject/10591096)
-[海量运维、运营规划之道][] | [][]  
-[大型网站技术架构:核心原理与案例分析][] | [][]  
-[Hadoop实战(第2版)]  
-[大话数据挖掘]  
-[实用负载均衡技术:网站性能优化攻略]  
-[启示录:打造用户喜爱的产品]  
-[结网:改变世界的互联网产品经理]  
-[UCD火花集——有效的互联网产品设计 交互/ 1,2]  
-[淘宝技术这十年]  
+- [海量运维、运营规划之道][] | [][]  
+- [大型网站技术架构:核心原理与案例分析][] | [][]  
+- [Hadoop实战(第2版)]  
+- [大话数据挖掘]  
+- [实用负载均衡技术:网站性能优化攻略]  
+- [启示录:打造用户喜爱的产品]  
+- [结网:改变世界的互联网产品经理]  
+- [UCD火花集——有效的互联网产品设计 交互/ 1,2]  
+- [淘宝技术这十年]  
 
 ### DesignPattern
 
@@ -146,25 +147,23 @@ __Read__:
 [研磨设计模式]  
 
 ## Open Platform
-Wechat
-  - [微信支付](http://pay.weixin.qq.com/wiki/doc/api/index.html)
-  - [WeiPHP](http://www.weiphp.cn/): [手册](http://www.weiphp.cn/wiki/), [OneThink手册](http://document.onethink.cn/manual_1_0.html)
-  - WeEngine: [http://www.we7.cc/](http://www.we7.cc/)
-  - Lane
+__Wechat__
 
-  # 第三方
+- [微信支付](http://pay.weixin.qq.com/wiki/doc/api/index.html)
+- [WeiPHP](http://www.weiphp.cn/): [手册](http://www.weiphp.cn/wiki/), [OneThink手册](http://document.onethink.cn/manual_1_0.html)
+- WeEngine: [http://www.we7.cc/](http://www.we7.cc/)
+- Lane
+
+__第三方__
 - 微盟: [http://www.weimob.com/](http://www.weimob.com/)
 - 口袋通: []()
 - i365: [http://www.iwork365.com/](http://www.iwork365.com/)
 
-# 服务窗
-# 官方
+__服务窗__
+
 - 服务窗开放平台: [https://fuwu.alipay.com](https://fuwu.alipay.com)
 - 移动Web解决方案: [http://am-team.github.io/](http://am-team.github.io/)
-
-# 第三方
 - 小马哥： http://zfb.aduer.com/
-Baidu
 
 ## Design
 - [500px](https://500px.com)
@@ -279,27 +278,27 @@ http://bosonnlp.com/
 
 
 # Tool
-__mindmap
+__mindmap__
 
 [xmind](http://xmind.net)
 http://naotu.baidu.com/
 https://www.processon.com/
 
 
-__markdown
+__markdown__
 
 [markdownpad2]
 [mdeditor](https://www.zybuluo.com/mdeditor)
 https://pandao.github.io/editor.md/
 
-__ssh
+__ssh__
 Windows:
 [tunnlier](http://www.bitvise.com/ssh-client-download)
 [babun](http://babun.github.io)
 Linux:
 [terminator]()
 
-__git
+__git__
 
 - [backlogtool](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)
 - [Git](http://git-scm.com/book/en/v2)
@@ -312,10 +311,11 @@ __git
 - http://mymorningroutine.com/
 
 
-__windows environment
+__windows environment__
 
-http://ditto-cp.sourceforge.net/
-Clover http://cn.ejie.me/
+- http://www.cygwin.com/
+- http://ditto-cp.sourceforge.net/
+- Clover http://cn.ejie.me/
 
 __HyperApp__:
 - http://www.oschina.net/p/crossapp
