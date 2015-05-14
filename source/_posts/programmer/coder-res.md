@@ -9,11 +9,7 @@ categories:
 ---
 updated at 20150507
 
-# Plan
-
-# Link
-
-## Important
+# Important
 > Collection of the most important resource. 最佳干货在此.
 
 - [我的算法学习之路](http://zh.lucida.me/blog/on-learning-algorithms/)
@@ -25,73 +21,71 @@ updated at 20150507
 - [程序员必读书单](http://zh.lucida.me/blog/developer-reading-list/)
 - [码农必读非技术书列表](https://github.com/justjavac/free-programming-books-zh_CN/blob/master/what-non-programming-books-should-programmers-read.md)
 
-## Information Source
+# Information Source
 __level1__
-  - [quora](https://www.quora.com/)
-  - [Product Hunt](http://www.producthunt.com)
-  - [Hacker News](https://news.ycombinator.com)
-  - [Growth Hackers](https://growthhackers.com)
-  - [Sidebar](http://sidebar.io)
-  - [Backer News](http://backernews.com)
-  - [Designer News](https://news.layervault.com)
-  - [网易阅读器](http://yuedu.163.com/news_reader)
-  - [Get](http://get.jobdeer.com/)
-  - [sitepoint](http://www.sitepoint.com/)
+- [quora](https://www.quora.com/)
+- [Product Hunt](http://www.producthunt.com)
+- [Hacker News](https://news.ycombinator.com)
+- [Growth Hackers](https://growthhackers.com)
+- [Sidebar](http://sidebar.io)
+- [Backer News](http://backernews.com)
+- [Designer News](https://news.layervault.com)
+- [网易阅读器](http://yuedu.163.com/news_reader)
+- [Get](http://get.jobdeer.com/)
+- [sitepoint](http://www.sitepoint.com/)
 
 __level2__
-  - [Startup News](news.dbanotes.net) + [Mod](http://www.hackernews.im/startupnews)
-  - [36Kr](http://www.36kr.com/) + [36Kr Next](http://next.36kr.com/)
-  - [OSChina](http://www.oschina.net)
-  - [湾区日报](http://wanqu.co)
-  - [reddit](http://www.reddit.com/)
+- [Startup News](news.dbanotes.net) + [Mod](http://www.hackernews.im/startupnews)
+- [36Kr](http://www.36kr.com/) + [36Kr Next](http://next.36kr.com/)
+- [OSChina](http://www.oschina.net)
+- [湾区日报](http://wanqu.co)
+- [reddit](http://www.reddit.com/)
 
 __Level3__
-  - [techcrunch](http://techcrunch.com/)
-  - [arstechnica](http://arstechnica.com/)
-  - [thenextweb](http://thenextweb.com/)
-  - http://www.bianews.com/
-  - http://githuber.info/index
-  -[CVBOX](http://cvbox.sinaapp.com/)
+- [techcrunch](http://techcrunch.com/)
+- [arstechnica](http://arstechnica.com/)
+- [thenextweb](http://thenextweb.com/)
+- http://www.bianews.com/
+- http://githuber.info/index
+-[CVBOX](http://cvbox.sinaapp.com/)
 
 __Career__
-  - [OverAPI](http://overapi.com/php/)
-  - [Learn X in Y Minutes](http://learnxinyminutes.com)
-  - [leetcode](http://leetcode.com)
-  - [牛客](http://www.nowcoder.com/)
-  - [100offer](https://100offer.com)
-  - [拉钩](http://www.lagou.com/)
-  - [jobdeer](http://jobdeer.com)
-  - [codejob](http://www.codejob.me)
-  - [nashangban](http://www.nashangban.com)
-  - [gurudigger.com](http://gurudigger.com/)
-  - [jobdeer](http://www.jobdeer.com/)
+- [OverAPI](http://overapi.com/php/)
+- [Learn X in Y Minutes](http://learnxinyminutes.com)
+- [leetcode](http://leetcode.com)
+- [牛客](http://www.nowcoder.com/)
+- [100offer](https://100offer.com)
+- [拉钩](http://www.lagou.com/)
+- [jobdeer](http://jobdeer.com)
+- [codejob](http://www.codejob.me)
+- [nashangban](http://www.nashangban.com)
+- [gurudigger.com](http://gurudigger.com/)
+- [jobdeer](http://www.jobdeer.com/)
 
-## Community
-  - level1:
-  	- [StackOverFlow](http://stackoverflow.com/)
-      - [开源中国](http://www.oschina.net)
-      - [V2EX](http://www.v2ex.com)
-      - [知乎](http://www.zhihu.com)
-      - [segmentfault](http://segmentfault.com)
-  	- [RubyChina](http://ruby-china.org)
-  	- [osforce](http://www.osforce.cn)
-    - [传智](http://bbs.itcast.cn/)
-  - level2:
-      - [51cto](http://www.51cto.com)
-      - [CSDN](http://www.csdn.net)
-      - [cnblogs](http://www.cnblogs.com/)
-      - [九秒](http://www.9miao.com)
+# Community
+- level1:
+- [StackOverFlow](http://stackoverflow.com/)
+- [开源中国](http://www.oschina.net)
+- [V2EX](http://www.v2ex.com)
+- [知乎](http://www.zhihu.com)
+- [segmentfault](http://segmentfault.com)
+- [RubyChina](http://ruby-china.org)
+- [osforce](http://www.osforce.cn)
+- [传智](http://bbs.itcast.cn/)
+- level2:
+- [51cto](http://www.51cto.com)
+- [CSDN](http://www.csdn.net)
+- [cnblogs](http://www.cnblogs.com/)
+- [九秒](http://www.9miao.com)
 
-  - level3:
-      - [豆瓣](http://www.douban.com)
-  	- [实现](http://shixian.com)
-  	- [大象公社]()
-  	- [孢子社区](http://www.baoz.cn)
-  	- [9miao](http://www.9miao.com)
+- level3:
+- [豆瓣](http://www.douban.com)
+- [实现](http://shixian.com)
+- [大象公社]()
+- [孢子社区](http://www.baoz.cn)
+- [9miao](http://www.9miao.com)
 
-# Resource
-
-## Startups
+# Startups
 
 - [devstore](http://www.devstore.cn)
 - [乌云](http://www.wooyun.org)
@@ -102,27 +96,29 @@ __Career__
 - [startuptalks](http://startuptalks.tv)
 - [morningreader](http://morningreader.com)
 
-## MOOC
-    - [慕课](http://www.imooc.com)
-    - [网易公开课](http://open.163.com)
-    - [网易云课堂](http://study.163.com)
-    - [慕课中国](http://www.mooc.cn)
-    - [实验楼](http://www.shiyanlou.com)
-    - [xuetangx](http://www.xuetangx.com)
-    -
-    - [icourse163](http://www.icourse163.org)
-    - [guokr](http://mooc.guokr.com)
+# MOOC
 
-## Open Source
+- [慕课](http://www.imooc.com)
+- [网易公开课](http://open.163.com)
+- [网易云课堂](http://study.163.com)
+- [慕课中国](http://www.mooc.cn)
+- [实验楼](http://www.shiyanlou.com)
+- [xuetangx](http://www.xuetangx.com)
+-
+- [icourse163](http://www.icourse163.org)
+- [guokr](http://mooc.guokr.com)
 
-    - [Github](https://github.com)
-    - [Kickstarter](https://www.kickstarter.com)
-    - [getchef](https://supermarket.getchef.com)
-    - [digitaltutors](http://www.digitaltutors.com)
+# Open Source
 
-## FrontEnd
-    - [HTML 5与CSS 3权威指南]  
-    - [HTTP权威指南](http://book.douban.com/subject/10746113)
+- [Github](https://github.com)
+- [Kickstarter](https://www.kickstarter.com)
+- [getchef](https://supermarket.getchef.com)
+- [digitaltutors](http://www.digitaltutors.com)
+
+# FrontEnd
+
+- [HTML 5与CSS 3权威指南]  
+- [HTTP权威指南](http://book.douban.com/subject/10746113)
 
 __Read__:
 
@@ -138,7 +134,7 @@ __Read__:
 - [UCD火花集——有效的互联网产品设计 交互/ 1,2]  
 - [淘宝技术这十年]  
 
-### DesignPattern
+# DesignPattern
 
 __Read__:
 
@@ -146,32 +142,37 @@ __Read__:
 [设计模式:可复用面向对象软件的基础(英文版)]  
 [研磨设计模式]  
 
-## Open Platform
-__Wechat__
+# Open Platform
+__Tencent__
+
+Wechat
 
 - [微信支付](http://pay.weixin.qq.com/wiki/doc/api/index.html)
+
+Wechat Project
 - [WeiPHP](http://www.weiphp.cn/): [手册](http://www.weiphp.cn/wiki/), [OneThink手册](http://document.onethink.cn/manual_1_0.html)
 - WeEngine: [http://www.we7.cc/](http://www.we7.cc/)
 - Lane
 
-__第三方__
+Wechat Platform
+
 - 微盟: [http://www.weimob.com/](http://www.weimob.com/)
 - 口袋通: []()
 - i365: [http://www.iwork365.com/](http://www.iwork365.com/)
 
-__服务窗__
+__Alibaba__
 
 - 服务窗开放平台: [https://fuwu.alipay.com](https://fuwu.alipay.com)
 - 移动Web解决方案: [http://am-team.github.io/](http://am-team.github.io/)
 - 小马哥： http://zfb.aduer.com/
 
-## Design
+# Design
 - [500px](https://500px.com)
 http://tuchong.com/
 - [腾讯IUX](http://exp.qq.com)
 - [camera360](http://www.camera360.com)
 
-  - [zcool](http://www.zcool.com.cn/)
+- [zcool](http://www.zcool.com.cn/)
 
 ## Production
   - [产品邦](http://www.masterchat.cn/)
