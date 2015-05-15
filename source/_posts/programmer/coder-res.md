@@ -49,6 +49,7 @@ __Level3__
 - http://githuber.info/index
 -[CVBOX](http://cvbox.sinaapp.com/)
 - http://www.tuicool.com/
+- http://msmag.cn/
 
 __Career__
 - [OverAPI](http://overapi.com/php/)
@@ -63,6 +64,7 @@ __Career__
 - [nashangban](http://www.nashangban.com)
 - [gurudigger.com](http://gurudigger.com/)
 - [jobdeer](http://www.jobdeer.com/)
+
 
 # Community
 - level1:
@@ -86,6 +88,10 @@ __Career__
 - [大象公社]()
 - [孢子社区](http://www.baoz.cn)
 - [9miao](http://www.9miao.com)
+
+# Blog
+
+- http://dguan.net/
 
 # Startups
 

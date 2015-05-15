@@ -63,8 +63,9 @@ __Package__
 
 __Image__
 
-- GD
-- magic
+- [GD]()
+- [magic]()
+- [tinypng](https://tinypng.com/)
 
 __Encryt__
 
