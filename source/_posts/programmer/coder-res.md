@@ -69,14 +69,14 @@ __Career__
 # Community
 - level1:
 - [StackOverFlow](http://stackoverflow.com/)
+- [gitter](https://gitter.im/)
 - [开源中国](http://www.oschina.net)
-- [V2EX](http://www.v2ex.com)
-- [知乎](http://www.zhihu.com)
 - [segmentfault](http://segmentfault.com)
 - [RubyChina](http://ruby-china.org)
-- [osforce](http://www.osforce.cn)
-- [传智](http://bbs.itcast.cn/)
+
 - level2:
+- [V2EX](http://www.v2ex.com)
+- [知乎](http://www.zhihu.com)
 - [51cto](http://www.51cto.com)
 - [CSDN](http://www.csdn.net)
 - [cnblogs](http://www.cnblogs.com/)
@@ -88,14 +88,15 @@ __Career__
 - [大象公社]()
 - [孢子社区](http://www.baoz.cn)
 - [9miao](http://www.9miao.com)
+- [osforce](http://www.osforce.cn)
+- [传智](http://bbs.itcast.cn/)
+
 
 # Blog
 
 - http://dguan.net/
 
 # Startups
-
-
 
 
 # MOOC
@@ -281,6 +282,10 @@ http://bosonnlp.com/
 
 
 # Tool
+__H5__
+
+- [风铃](http://zhan.qq.com/)
+
 __mindmap__
 
 [xmind](http://xmind.net)

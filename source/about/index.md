@@ -126,7 +126,6 @@ Apps开发准备
 TaskCity接单
 
 
-
 # Publish
 
 __写作与阅读，是实践内观的最佳入口。__
@@ -154,8 +153,6 @@ JD: http://item.jd.com/11598400.html
 如何更好的过好程序员人生是本书尝试回答的重要问题.
 
 Preview: http://allengaller.gitbooks.io/programmers-guide-to-zen-cn/
-
-
 
 # Community
 
@@ -193,3 +190,7 @@ QQ群: Deis 中国用户组 243736557
 Vagrant China 是我近期创立的开源组织.
 尚未开始运营, 目前主要关注 Vagrant 技术实践与原理分析.
 QQ群: Vagrant 中国用户组 239542543
+
+# Slogan
+
+If you have a dream, you've gotta protect it.
