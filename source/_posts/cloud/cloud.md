@@ -4,7 +4,6 @@ tags:
 - resource
 categories:
 - cloud
-- docker
 
 ---
 

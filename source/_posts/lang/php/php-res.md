@@ -8,22 +8,25 @@ categories:
 
 ---
 
-# Link:
+# Resource:
 
+__link__
 - [phptoday](https://www.phptoday.org/)
 
-# Doc
-
+__doc__
 - [Oneline Doc](http://www.golaravel.com/php/)
 
-# MOOC
-
+__MOOC__
 - 大话PHP设计模式
 - 站在巨人的肩膀上写代码—SPL
 
-# Reading list
+__blog__
+L1:
+- http://www.laruence.com/
+- http://lamp.baidu.com/
 
-__L1__
+# Reading list
+L1:
 - PHP 官方文档
 - 即用即查 PHP 函数参考手册
 - 细说 PHP
@@ -34,8 +37,7 @@ __L1__
 - TIPI 深入理解 PHP 内核
 - PHP 精粹
 
-__L3__
-
+L2:
 - 大道PHP.LAMP.Zend开源框架整合开发与实践
 - O'Reilly PHP经典实例 上半年必修
 - O'Reilly PHP设计模式 上半年必修
@@ -50,15 +52,11 @@ __L3__
 - 大道PHP.LAMP.Zend开源框架整合开发与实践
 
 # Tool
-
-__Package__
-
+__package__
 - [Composer](http://www.phpcomposer.com/) | [Doc](http://docs.phpcomposer.com/)
 - [中国镜像](http://pkg.phpcomposer.com/)
-
 - [ipip](http://www.ipip.net/download.html)
 - [Packagist中国镜像站](http://packagist.cn/)
-
 - Pecl
 
 __Image__
@@ -85,74 +83,79 @@ __Web__
 
 __Log__
 
-
-# Blog
-
-- http://lamp.baidu.com/
-
-# Mindmap
-
-![20150414](http://ag-qiniu.u.qiniudn.com/mm_php.png)
-
 # MVC Framework
 
 __Yii__
-
-- http://www.yiiframework.com 官方网站
-- https://github.com/yiisoft/yii2 官方仓库
-- [krajee](http://demos.krajee.com/#)
-- [Yii 2.0 中文权威指南](http://www.yiifans.com/yii2/guide/)
+Resource:
+- [官方网站](http://www.yiiframework.com)
+- [官方仓库](https://github.com/yiisoft/yii2)
+- [krajee](http://demos.krajee.com)
 - [视频](http://www.yiifans.com/forum.php?mod=viewthread&tid=11498)
 - [深入理解Yii2.0](http://www.digpage.com/)
+- [samdark编著的 yii2-cookbook](https://github.com/samdark/yii2-cookbook)
+- [Yii 2.0 中文权威指南](http://www.yiifans.com/yii2/guide/)
+- [Yii Framework 2.0 类参考手册](http://www.yiiframework.com/doc-2.0/index.html)
+- [Yii Framework 2.0 权威指南](http://www.yiiframework.com/doc-2.0/guide-index.html)
+- [Yii Framework 2.0 权威指南镜像](http://stuff.cebe.cc/yii2docs/)
+- [PDF 版本的权威指南](http://stuff.cebe.cc/yii2-guide.pdf)
+- [Yii Framework 2.0 中文权威指南](https://github.com/yiisoft/yii2/tree/master/docs/guide-zh-CN)
+- [Yii2 中文本土化项目](https://github.com/yii2-chinesization/yii2-zh-cn)
+
+Community:
+- http://www.getyii.com/ 清新简洁的yii中文论坛)
+- http://www.yiichina.com/ 国内建立较早的yii论坛)
+- http://www.yiifans.com/ 在云端建立的yii论坛)
+
+Opensource Project:
 - [Yincart](http://www.yincart.com/)
+- https://github.com/iiyii/getyii yii2 编写的小清新论坛
+- https://github.com/DevGroup-ru/dotplant2 来自俄罗斯的商城
+- http://yincart.com/ yincart yii2实现的商城
+- https://github.com/samdark/yii2-shop samdark编写的学习的好例子，实现简单的商城
+- http://git.oschina.net/chenfh08054/yiishop 基于Yii的商城系统
+- https://github.com/funson86/funshop 一个灵活的商城，国人开发。
+- https://github.com/callmez/huajuan Yii2实现的问答,微信,文章系统
+- https://github.com/callmez/yii2-wechat 基于Yii2实现的微信模块, 集成微信模拟器、多公众号管理、扩展开发接口
+- https://github.com/yiifans/lulucms lulucms由yiifans论坛的建立者在云端开发
+- https://github.com/djfly/dcms2 yii2编写的cms，目前荒废中
+- https://github.com/BigKuCha/yga Yii2-admin(RBAC) Yii2开发的后台管理系统
+- https://github.com/mojifan/MoBlog MoBlog是一个基于Yii2开发的博客系统
+- http://wegit.org/
 
-__yii2文档__
+Installation
+	Composer
+	Archive files
 
-http://www.yiiframework.com/doc-2.0/index.html Yii Framework 2.0 类参考手册
-http://www.yiiframework.com/doc-2.0/guide-index.html Yii Framework 2.0 权威指南
-http://stuff.cebe.cc/yii2docs/ Yii Framework 2.0 权威指南镜像，每次github有提交时15分钟后自动更新比官方那个及时
-http://stuff.cebe.cc/yii2-guide.pdf PDF 版本的权威指南
-https://github.com/yiisoft/yii2/tree/master/docs/guide-zh-CN Yii Framework 2.0 中文权威指南
-https://github.com/yii2-chinesization/yii2-zh-cn Yii2 官方文档及其他文本的中文本土化项目
+Key Concepts
+	Properties
+	Events
+	Behaviors
+	Components
+	Configurations
+	Aliases
+	Class Autoloading
+	Service Locator
+	Dependency Injection Container
 
-__yii2书籍__
+RESTful Web Services
+	Resources
+	Controllers
+	Routing
+	Response Formatting
+	Authentication
+	Rate Limiting
+	Versioning
+	Error Handling
 
-https://github.com/samdark/yii2-cookbook samdark编著的 yii2-cookbook
-http://www.digpage.com/ 深入浅出的文字教程深入理解Yii2.0
-
-__yii2社区__
-
-http://www.getyii.com/ 清新简洁的yii中文论坛
-http://www.yiichina.com/ 国内建立较早的yii论坛
-http://www.yiifans.com/ 在云端建立的yii论坛
-
-__yii2开源程序__
-
-https://github.com/iiyii/getyii yii2 编写的小清新论坛
-https://github.com/DevGroup-ru/dotplant2 来自俄罗斯的商城
-http://yincart.com/ yincart yii2实现的商城
-https://github.com/samdark/yii2-shop samdark编写的学习的好例子，实现简单的商城
-http://git.oschina.net/chenfh08054/yiishop 基于Yii的商城系统
-https://github.com/funson86/funshop 一个灵活的商城，国人开发。
-https://github.com/callmez/huajuan Yii2实现的问答,微信,文章系统
-https://github.com/callmez/yii2-wechat 基于Yii2实现的微信模块, 集成微信模拟器、多公众号管理、扩展开发接口
-https://github.com/yiifans/lulucms lulucms由yiifans论坛的建立者在云端开发
-https://github.com/djfly/dcms2 yii2编写的cms，目前荒废中
-https://github.com/BigKuCha/yga Yii2-admin(RBAC) Yii2开发的后台管理系统
-https://github.com/mojifan/MoBlog MoBlog是一个基于Yii2开发的博客系统
-http://wegit.org/
-
-__yii2 QQ群__
-
-yii2人才酷（1000人）：193907564 (yiibook.com)
-Yii Book讨论组 （1000人）:193902780 (yiibook.com)
-yiichina 交流群 (yiichina.com)
-① 4241653 (已满)　 ② 4829703 (已满)
-③ 4958407 (已满)　 ④ 5476028 (已满)
-⑤ 5478523 (未满)　 ⑥ 5604716 (未满)
-⑦ 5629416 (已满)　 ⑧ 6419794 (未满)
-⑨ 7415106 (未满)　 ⑩ 7594839 (已满)
-Yii2学习兴趣小组：343188481 (中文文档翻译）
+Development Tools
+Testing
+Special Topics
+Widgets
+Helpers
+Caching
+Security
+Displaying Data
+Working with Databases
 
 __CakePHP__
 
