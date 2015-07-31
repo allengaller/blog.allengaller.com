@@ -1,10 +1,10 @@
-title: "Docker Resources"
+title: "About Buddhism"
 date: 2015-03-01 16:46:12
 tags:
-- resource
+- zen
 categories:
-- cloud
-- docker
+- zen
+- buddhism
 
 ---
 

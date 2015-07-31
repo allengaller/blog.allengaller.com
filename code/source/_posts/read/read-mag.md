@@ -4,7 +4,7 @@ tags:
 - read
 categories:
 - read
-- mag
+- magzine
 
 ---
 

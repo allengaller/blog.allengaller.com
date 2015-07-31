@@ -1,10 +1,10 @@
 title: "Docker Resources"
 date: 2015-03-01 16:46:12
 tags:
-- resource
+- life
 categories:
-- cloud
-- docker
+- life
+- about
 
 ---
 

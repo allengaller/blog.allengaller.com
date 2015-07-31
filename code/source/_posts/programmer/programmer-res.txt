@@ -1,11 +1,10 @@
 title: "Software Engineering Resources"
 date: 2015-03-01 16:46:12
 tags:
-- programmer
-- res
+- resource
 categories:
 - programmer
-
+- programmer
 ---
 updated at 20150507
 

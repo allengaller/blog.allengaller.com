@@ -1,9 +1,9 @@
-title: "About ZenX"
+title: "Jazz"
 date: 2015-03-01 16:46:12
 tags:
-- studio
+- music
 categories:
-- studio
-- zenx
+- music
+- jazz
 
 ---
