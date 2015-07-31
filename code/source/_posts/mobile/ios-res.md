@@ -8,7 +8,10 @@ categories:
 
 ---
 
-Doc:
+# Resource
+
+## doc
+* [GitHub Top 100 简介](https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md) - 中文版
 http://mirrors.segmentfault.com/swiftguide/index.html
 ### iOSList
 

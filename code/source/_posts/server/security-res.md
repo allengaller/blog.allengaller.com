@@ -8,6 +8,8 @@ categories:
 
 ---
 
+http://blog.knownsec.com/
+
 # CTF 兵器
 
 逆向工具
