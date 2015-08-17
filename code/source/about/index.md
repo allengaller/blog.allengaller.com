@@ -8,15 +8,14 @@ This is Allen Galler
 Full-stack Web Developer @ Gaopeng BPG(basic platform group).
 Focus on SaaS Architecture Design and Coding.
 Interested in PaaS and Wearable.
-Loving publishing, aerobic exercise, piano and yoga.
+Loving technical publishing, aerobic exercise, piano and yoga.
 
 Contact me at allengaller(at)gmail(dot)com or allengaller(at)qq(dot)com
-Github: @allengaller
+[Github](https://github.com/allengaller)
 Weixin: allengaller
-Weibo:@allengaller
+[Weibo]()
 QQ: 517946367
-LinkedIn
-G+
+LinkedIn: 
 Facebook
 Twitter
 
