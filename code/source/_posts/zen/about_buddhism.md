@@ -35,3 +35,16 @@ categories:
 # 概念
 
 [无常](http://zh.wikipedia.org/wiki/%E6%97%A0%E5%B8%B8_(%E4%BD%9B%E6%95%99))
+
+# Saying
+
+命运就像那瓢一样，fate is like this ladle.
+触着即转。 touch it and it spins.
+上天于我们就是那 it's the hand of the gods
+掷瓢的手。 that throws the ladle.
+
+要是悟到生死轮回， as flowers blomom and wither,
+无非花开花落。 so goes the cycle of reincarnation.
+
+心有定境 不住因果 Calm your heart, dwell not no karma.
+还有什么不快乐的呢 and there's no place for sadness.
