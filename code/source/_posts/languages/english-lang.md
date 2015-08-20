@@ -4,9 +4,6 @@ tags:
 - life
 categories:
 - life
-- english
 
 ---
 
-# TOEFL
-- http://bbs.xiaoma.com/index.php
