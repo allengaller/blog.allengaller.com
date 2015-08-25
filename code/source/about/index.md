@@ -2,127 +2,76 @@ title: "about"
 date: 2015-04-10 18:10:40
 ---
 
-# About me
+# 关于我 about me 
 
-This is Allen Galler
-Full-stack Web Developer @ Gaopeng BPG(basic platform group).
+亚仑, 85后, 全栈 Web 学徒. 目前是高朋微商户平台开发组组长
+This is Allen Galler. Ongoing Full-stack Web Developer @ Gaopeng BPG(basic platform group).
+
+专注于SaaS系统架构设计与研发. 兴趣于PaaS和智能可穿戴设备.
 Focus on SaaS Architecture Design and Coding.
 Interested in PaaS and Wearable.
+
+业余爱好是技术出版,有氧运动,钢琴和瑜伽.
 Loving technical publishing, aerobic exercise, piano and yoga.
 
-Contact me at allengaller(at)gmail(dot)com or allengaller(at)qq(dot)com
-[Github](https://github.com/allengaller)
-Weixin: allengaller
-[Weibo]()
-QQ: 517946367
-LinkedIn: 
-Facebook
-Twitter
-
-# 关于我
-
-亚仑
-85后，全栈 Web 开发者
-专注于SaaS系统架构设计与研发.
-兴趣于PaaS和智能可穿戴设备.
-业余爱好是技术出版,有氧运动,钢琴和瑜伽.
-热爱技术出版，至今参与并出版著作《Docker 技术入门与实战》，译著《Arduino无线传感器网络实践指南》。
+至今参与并出版著作《Docker 技术入门与实战》，译著《Arduino无线传感器网络实践指南》, <创客人生>, <Python爬虫入门>, <编程有道>。
 开源图书《程序员禅修指南》。
+I have published <Docker in action>, <Building wireless sensor network with Arduino>, <Makers at Work>, <Learning Python Web Scrapping>, <Become a better programmer>
 
-# Skills
-- Python, PHP
-- ANSI C, C++
+您可以通过邮件联系我: allengaller(at)gmail(dot)com 或者 allengaller(at)qq(dot)com
+[github](https://github.com/allengaller) | [微博](http://weibo.com/517946367) | [领英](https://cn.linkedin.com/pub/allen-galler/15/175/4) | [facebook]() | [twitter]()
+微信号: allengaller | QQ号: 517946367
+Feel free to contact me at allengaller(at)gmail(dot)com or allengaller(at)qq(dot)com
+[github](https://github.com/allengaller) | [weibo](http://weibo.com/517946367) | [linkedin](https://www.linkedin.com/pub/allen-galler/15/175/4) | [facebook]() | [twitter]()
+Wechat: allengaller | QQ: 517946367
+
+# 主要专业技能 skills 
+
+## 语言 language
+- 擅长 good at: python, php, javascript 
+- 了解 familiar with : c, cpp, ruby, java
+
+## 环境 environment
 - Ubuntu, CentOS, Mac OS X
-- SaaS, Distributed System
-- TCP-IP, Network, Security
-- Graceful, Simple Things.
 
-# Contacts
-Email: allengaller(at)qq.com
-Gmail: allengaller(at)gmail.com
-QQ: 517946367
-Location: Shenzhen ,China.
+## 架构设计 architecture design
+- SaaS, 分布式系统 distributed system, 大并发系统 high-concurrent system
 
-# Project
+## 协议 protocol
+- TCP-IP, HTTP Networking
 
-__视工作为修行，视品质如生命，视任务如作品，视口碑如人品。__
+# 独立工作室 studio
 
-## Apps4Coder Studio 基码坊
+## 基码坊 apps4coder studio 
 
+基码坊（基情码农）发布面向码农的研发工具，以及社交，教育，健康类产品(Web/App)。
 The apps4coder Studio focuses on creating awesome web/mobile apps for programmers or hacker.
 We are shipping out some dev-tools, social and educational apps, and even health solutions.
-基码坊（基情码农）发布面向码农的研发工具，以及社交，教育，健康类产品(Web/App)。
+
 合作与咨询请发邮件至：ag (at) apps4coder.com
 [查看网站 View website >>](http://apps4coder.com)
 
-## ZenX Studio 正禅坊
+## 正禅坊 zenx studio
 
+正禅坊发布面向大众的糅合禅意的日常产品(Web/App)。
 The ZenX Studio is focusing on creating nice and simple web/mobile apps for everyone.
 Our main belief is using our apps to help people to live a simple and mindfulness life.
-正禅坊发布面向大众的糅合禅意的日常产品(Web/App)。
+
 合作与咨询请发邮件至：ag (at) zenxapp.com
 [查看网站 View website >>](http://zenxapp.com)
 
-## PannaArts 裕融堂
+## 裕融堂 panna arts 
 
+裕融堂是我的私人艺术工作室，每年都会把自己的涂涂画画和胡思乱想集结于此。
 The PannaArts Studio is a personal workshop that focusing on works that combine digital art and AI,
 and creating a peaceful experience while using/wearing this works.
-裕融堂是我的私人艺术工作室，每年都会把自己的涂涂画画和胡思乱想集结于此。
+
 合作与咨询请发邮件至：allengaller (at) gmail.com
 网站建设中 Site Building...
 
-##  Mangattan Project 曼哈顿计划
+## 放心吧 rainer bar
 
-一个关于时间管理和人生实践的真人秀
 
-## Schedule
-### Daily
-__每日编码读码1H+
-20140707 0708
-
-__每日深入学习LAMP/并发系统:
-20140617 Cookbook-Array Done 1h
-20140617 Cookbook-OO    Done 1.5h
-
-__每日研发资料整理
-20140615-19 Done
-
-__Dooland杂志99本阅读
-
-__每周Auible听书
-20140617-19 TR DONE
-
-### Weekly
-__每周回顾
-20140707 1H
-
-__每周每周更新简历SNS博客公众
-
-__每周禅修
-20140615 一次
-20140616 两次
-20140617 1
-
-__每周泛读
-20140707 大鹏:难搞的日子笑出来 2H
-
-__每周健身4次:
-20140615 5T.
-
-__每周钢琴口琴吉他练习
-
-__每周清理硬盘/在线资源/书房/音乐电影资源
-在线资源包括: POCKET Evernote Bookmark WeiboFav  
-20140616 Pocket
-20140615 书房清理
-20140709 WEIBO
-
-## Later
-Apps开发准备
-
-## MISC
-确认兴业积分并准备港币消费
-TaskCity接单
 
 
 # Publish
