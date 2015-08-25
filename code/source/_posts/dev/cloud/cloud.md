@@ -1,11 +1,9 @@
-title: "Agile Resources"
+title: "Cloud Resources"
 date: 2015-03-01 16:46:12
 tags:
 - resource
 categories:
-- engineering
-- agile
-
+- cloud
+- cloud
 ---
 
-res

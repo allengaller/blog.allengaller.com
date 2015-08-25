@@ -4,10 +4,6 @@ tags:
 - production
 categories:
 - production
-- tool
 
 ---
 
-Design Tool:
-http://www.mockplus.cn/
-http://codiqa.com/embed/editor
