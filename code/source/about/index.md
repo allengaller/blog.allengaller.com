@@ -72,8 +72,6 @@ and creating a peaceful experience while using/wearing this works.
 ## 放心吧 rainer bar
 
 
-
-
 # Publish
 
 __写作与阅读，是实践内观的最佳入口。__
